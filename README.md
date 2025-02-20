@@ -1,4 +1,4 @@
-# AMBERMAP: Mapping the Future of Safety
+# AMBERMAP
 # "Mapping the future of safety, one child at a time."
 
 AMBERMAP is an open-source AMBER Alert mapping program designed to analyze and identify patterns in child abduction cases. By leveraging AI-driven automation, demographic analysis, and historical backtracing, AMBERMAP provides insights into high-risk areas and potential correlations between cases.
