@@ -1,9 +1,41 @@
-# AmberMap
-"Mapping the future of safety, one child at a time."
+# AMBERMAP
+# "Mapping the future of safety, one child at a time."
 
-# PROJECT GOAL
-The goal is to enhance public safety awareness and reduce abduction risks through open-source data sharing and collaboration.
-By utilizing publicly accessible data and AI-assisted predictive models we analyze AMBER Alerts, identify specific demographics and highlight geographic locations at higher risk for child abduction.
+AMBERMAP is an open-source AMBER Alert mapping program designed to analyze and identify patterns in child abduction cases. By leveraging AI-driven automation, demographic analysis, and historical backtracing, AMBERMAP provides insights into high-risk areas and potential correlations between cases.
+
+## 🔍 Key Features
+- **📊 Automated Data Collection** – Aggregates publicly available data on demographics, businesses, organizations, and locations linked to reported abductions.
+- **🧠 AI-Driven Pattern Recognition** – Identifies trends, correlations, and risk factors using historical data and predictive modeling.
+- **🗺️ Interactive Mapping** – Visualizes abduction hotspots, demographic trends, and sector connections in an intuitive web-based interface.
+- **🔄 Backtracing & Accuracy Refinement** – Tests AI algorithms against historical data to enhance predictive capabilities.
+- **📢 Social Media Automation** – Generates and publishes reports on identified high-risk areas when predictive accuracy reaches a set threshold.
+- **📌 Demographic & Environmental Analysis** – Incorporates data from religious organizations, businesses, traffic volumes, and vehicle registrations to build comprehensive case profiles.
+
+## 🎯 Objectives
+- **Enhance Law Enforcement Intelligence** – Provide AI-generated reports to assist investigative teams.
+- **Develop an Open-Source Research Database** – Store and analyze child abduction data for research and predictive modeling.
+- **Enable Correlation Analysis** – Identify links between reported cases and external socio-economic factors.
+- **Increase Public Awareness** – Use automated mapping and social media alerts to inform communities.
+
+## 🚀 Future Development Plans
+- **AI-Driven Psychological Profiling** – Develop behavioral profiles of known offenders to predict potential future cases.
+- **Enhanced Data Sources** – Integrate additional datasets, including hotel/motel registries, traffic camera analysis, and business activity tracking.
+- **Privacy & Compliance** – Maintain strict adherence to ethical guidelines, focusing only on publicly available data.
+
+## 🤝 Contribute to AMBERMAP
+AMBERMAP is an evolving open-source project, and **contributions are welcome!** If you're interested in collaborating, exploring new data sources, or enhancing AI-driven safety initiatives, join the development.
+
+### 📬 How to Get Involved
+- **Fork & Star** this repository to support the project.
+- **Submit Issues & Feature Requests** to help improve the system.
+- **Collaborate on AI & Data Development** by contributing to the codebase.
+- **Spread Awareness** by sharing the project with your network.
+
+---
+
+### 📜 License
+This project is opensource licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+Current seed development is by Newport River Company and public contributors. 
 
 # DEVELOPMENT PLAN
 
